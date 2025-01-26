@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ac-26
-- 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning ML
-- 📝 I'm currently working on Deep Learning
+- 👀 I’m interested in Data Science, AI and Machine Learning
+- 🌱 I’m currently learning DL
+- 📝 I'm currently working on ---
 - 💞️ I’m looking to collaborate on various different data sets.
 - 📫 How to reach me -> @arnavchopra2610@gmail.com
 
